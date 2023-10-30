@@ -1,6 +1,6 @@
 # Calculadora de XP para Jogos de RPG
 
-Esta é uma calculadora de XP para jogos de RPG criada por [NATHAN ALENCAR]. Ela é uma ferramenta simples que permite que os jogadores calculem a quantidade de XP necessária para alcançar um nível desejado e também determina a quantidade de dados que precisam ser jogados para aumentar o HP e os membros ofensivos dos personagens.
+Esta é uma calculadora de XP para jogos de RPG criada por NATHAN ALENCAR. Ela é uma ferramenta simples que permite que os jogadores calculem a quantidade de XP necessária para alcançar um nível desejado e também determina a quantidade de dados que precisam ser jogados para aumentar o HP e os membros ofensivos dos personagens.
 
 ## Funcionalidades
 
@@ -21,6 +21,6 @@ Se você deseja contribuir para o desenvolvimento deste projeto, sinta-se à von
 
 ## Autor
 
-- [NATHAN ALENCAR]
+- NATHAN ALENCAR
 
 Espero que esta calculadora de XP seja útil para os jogadores de RPG em suas aventuras épicas!
